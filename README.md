@@ -43,28 +43,11 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
-- Django
-- Authentication
-- CRUD Operations
-- MySQL Database
-
-### 🎓 Student Placement Portal
-- Django
-- Student & Company Management
-- Placement Tracking
-
-### 👨‍💼 Employee Management System
-- Django
-- Employee Records
-- Admin Dashboard
-
 ### 🌦 Weather Application
 - React
 - Weather API
 - Responsive UI
 
----
 
 ## 📊 GitHub Stats
 
@@ -72,13 +55,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-abirami05&layout=compact&theme=tokyonight)
 
----
 
 ## 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com?user=s-abirami05&theme=tokyonight)
 
----
+
 
 ## 🛠️ Tools
 
@@ -89,24 +71,24 @@
 - MySQL Workbench
 - Antigravity
 
----
+
 
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=s-abirami05&theme=tokyo-night)
 
----
+
 
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=s-abirami05&color=blue)
 
----
+
 
 ### 💡 Quote
 
 > "Consistency and continuous learning are the keys to becoming a great developer."
 
----
+
 
 ⭐ **Thank you for visiting my GitHub profile!**
