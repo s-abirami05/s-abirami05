@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;React+Developer;Open+to+Internships+%26+Full-Time+Roles" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -43,27 +42,25 @@
 ## 🚀 Featured Projects
 
 ### 🌦 Weather Application
-🌦 Real-Time Weather Forecast Web Application
-⚛️ Built using React.js & Vite
-🌍 Fetches Live Weather Data using Weather API
-📍 Search Weather by City Name
-🌡️ Displays Temperature, Humidity, Wind Speed & Weather Conditions
-🎨 Dynamic Backgrounds Based on Weather Conditions
-📱 Fully Responsive UI for Desktop & Mobile
-⚡ Fast & Lightweight User Experience
-🔄 Real-Time Weather Updates
+- Real-Time Weather Forecast Web Application
+- Built using React.js & Vite
+- Fetches Live Weather Data using Weather API
+- Search Weather by City Name
+- Displays Temperature, Humidity, Wind Speed & Weather Conditions
+- Dynamic Backgrounds Based on Weather Conditions
+- Fully Responsive UI for Desktop & Mobile
+-  Fast & Lightweight User Experience
+-  real-Time Weather Updates
 
-### 🚀 Interview Preparation Platform
-💼 Full Stack Interview Preparation Web Application
-⚛️ Built using MERN Stack (MongoDB, Express.js, React.js, Node.js)
-🔐 Secure User Authentication & Authorization
-📚 Company-wise Interview Questions & Resources
-📝 Practice Coding, Aptitude & Technical MCQs
-📊 Dashboard with Progress Tracking & Performance Analytics
-🔍 Smart Search & Category-based Filtering
-📌 Bookmark Important Questions for Later Review
-🌙 Dark/Light Theme Support
-📱 Fully Responsive UI for Desktop, Tablet & Mobile
+### 💼 Interview Preparation Platform
+- Full Stack MERN Web Application
+- React.js, Node.js, Express.js & MongoDB
+- User Authentication & Protected Routes
+- Company-wise Interview Questions
+- Resources & Learning Materials
+- Progress Tracking Dashboard
+- Search & Bookmark Features
+- Responsive & Modern UI Design
 
 
 ## 📊 GitHub Stats
