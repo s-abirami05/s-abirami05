@@ -17,7 +17,6 @@
 - 🚀 Building real-world projects to strengthen my skills
 - 📫 Reach me at: abiramisivanantham5@gmail.com
 
----
 
 ## 🌐 Connect with Me
 
@@ -44,9 +43,27 @@
 ## 🚀 Featured Projects
 
 ### 🌦 Weather Application
-- React
-- Weather API
-- Responsive UI
+🌦 Real-Time Weather Forecast Web Application
+⚛️ Built using React.js & Vite
+🌍 Fetches Live Weather Data using Weather API
+📍 Search Weather by City Name
+🌡️ Displays Temperature, Humidity, Wind Speed & Weather Conditions
+🎨 Dynamic Backgrounds Based on Weather Conditions
+📱 Fully Responsive UI for Desktop & Mobile
+⚡ Fast & Lightweight User Experience
+🔄 Real-Time Weather Updates
+
+### 🚀 Interview Preparation Platform
+💼 Full Stack Interview Preparation Web Application
+⚛️ Built using MERN Stack (MongoDB, Express.js, React.js, Node.js)
+🔐 Secure User Authentication & Authorization
+📚 Company-wise Interview Questions & Resources
+📝 Practice Coding, Aptitude & Technical MCQs
+📊 Dashboard with Progress Tracking & Performance Analytics
+🔍 Smart Search & Category-based Filtering
+📌 Bookmark Important Questions for Later Review
+🌙 Dark/Light Theme Support
+📱 Fully Responsive UI for Desktop, Tablet & Mobile
 
 
 ## 📊 GitHub Stats
